@@ -1,0 +1,12 @@
+C:\Users\m\source\repos\labTask3\labTask3\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+C:\Users\m\source\repos\labTask3\labTask3\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+C:\Users\m\source\repos\labTask3\labTask3\obj\Debug\netcoreapp3.1\Student.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\labTask3\labTask3\bin\Debug\netcoreapp3.1\Student.exe
+C:\Users\m\source\repos\labTask3\labTask3\bin\Debug\netcoreapp3.1\Student.deps.json
+C:\Users\m\source\repos\labTask3\labTask3\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+C:\Users\m\source\repos\labTask3\labTask3\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+C:\Users\m\source\repos\labTask3\labTask3\bin\Debug\netcoreapp3.1\Student.dll
+C:\Users\m\source\repos\labTask3\labTask3\bin\Debug\netcoreapp3.1\Student.pdb
+C:\Users\m\source\repos\labTask3\labTask3\obj\Debug\netcoreapp3.1\Student.dll
+C:\Users\m\source\repos\labTask3\labTask3\obj\Debug\netcoreapp3.1\Student.pdb
+C:\Users\m\source\repos\labTask3\labTask3\obj\Debug\netcoreapp3.1\Student.genruntimeconfig.cache
